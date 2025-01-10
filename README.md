@@ -28,4 +28,6 @@ Different Approaches To fine tune:
 4. These are some popular tools for fine-tuning machine learning models include TensorFlow, Keras, PyTorch, scikit-learn, Hugging Face Transformers, and Ludwig. These tools provide essential functionalities and resources for model optimization.
 
 
+NOTE: 
+One more file is uploaded here where we have tested the dataset in text format and used "textsplitter" langchain library to convert large texts into chunks.
 
